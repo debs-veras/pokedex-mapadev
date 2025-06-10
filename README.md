@@ -1,7 +1,7 @@
 # 📘 Mini Pokédex
 Uma pequena Pokédex feita para fins de aprendizado e prática de front-end, exibindo informações de Pokémon de forma interativa e visualmente agradável.
 
-![Preview da Pokédex](./capa-redname.png) 
+![Preview da Pokédex](./src/public/capa-readme.png) 
 
 ## ✨ Funcionalidades
 - Visualização de informações básicas dos Pokémon
